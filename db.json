@@ -1,0 +1,2067 @@
+{
+  "Login": [
+    {
+      "Admission_number": "AP22110011101",
+      "Password": "15122004",
+      "id": "60f3"
+    },
+    {
+      "Admission_number": "AP22110011102",
+      "Password": "15122004",
+      "id": "0e40"
+    },
+    {
+      "Admission_number": "AP22110011103",
+      "Password": "15122004",
+      "id": "704d"
+    },
+    {
+      "Admission_number": "AP22110011104",
+      "Password": "15122004",
+      "id": "43a8"
+    },
+    {
+      "Admission_number": "AP22110011105",
+      "Password": "15122004",
+      "id": "b172"
+    },
+    {
+      "Admission_number": "AP22110011106",
+      "Password": "15122004",
+      "id": "2a53"
+    },
+    {
+      "Admission_number": "AP22110011107",
+      "Password": "15122004",
+      "id": "89dd"
+    },
+    {
+      "Admission_number": "AP22110011108",
+      "Password": "15122004",
+      "id": "43a0"
+    },
+    {
+      "Admission_number": "AP22110011109",
+      "Password": "15122004",
+      "id": "fd2c"
+    },
+    {
+      "Admission_number": "AP22110011110",
+      "Password": "15122004",
+      "id": "275b"
+    }
+  ],
+  "Academic": [
+    {
+      "Name": "Samatham Jayanth Kumar",
+      "Roll_Number": "AP22110011109",
+      "Department": "Computer Science and Engineering",
+      "Year_of_Study": "3rd Year",
+      "Email": "jayanthkumar@gmail.com",
+      "Phone_Number": "+91 9876543210",
+      "Address": "SRM University, Amaravati, Andhra Pradesh, India",
+      "CGPA": "9.0",
+      "id": "87d0"
+    },
+    {
+      "Name": "Aditi Sharma",
+      "Roll_Number": "AP22110011110",
+      "Department": "Information Technology",
+      "Year_of_Study": "2nd Year",
+      "Email": "aditi.srm@example.com",
+      "Phone_Number": "+91 7894561230",
+      "Address": "SRM University, Amaravati, Andhra Pradesh, India",
+      "CGPA": "8.8",
+      "id": "3696"
+    },
+    {
+      "Name": "Rahul Verma",
+      "Roll_Number": "AP22110011101",
+      "Department": "Electronics and Communication Engineering",
+      "Year_of_Study": "4th Year",
+      "Email": "rahul.srm@example.com",
+      "Phone_Number": "+91 8569741256",
+      "Address": "SRM University, Amaravati, Andhra Pradesh, India",
+      "CGPA": "9.2",
+      "id": "c1d6"
+    },
+    {
+      "Name": "Sneha Kapoor",
+      "Roll_Number": "AP22110011102",
+      "Department": "Electrical Engineering",
+      "Year_of_Study": "1st Year",
+      "Email": "sneha.srm@example.com",
+      "Phone_Number": "+91 9347561234",
+      "Address": "SRM University, Amaravati, Andhra Pradesh, India",
+      "CGPA": "8.6",
+      "id": "054d"
+    },
+    {
+      "Name": "Arjun Nair",
+      "Roll_Number": "AP22110011103",
+      "Department": "Mechanical Engineering",
+      "Year_of_Study": "3rd Year",
+      "Email": "arjun.srm@example.com",
+      "Phone_Number": "+91 8976543219",
+      "Address": "SRM University, Amaravati, Andhra Pradesh, India",
+      "CGPA": "8.9",
+      "id": "e25e"
+    },
+    {
+      "Name": "Priya Singh",
+      "Roll_Number": "AP22110011104",
+      "Department": "Civil Engineering",
+      "Year_of_Study": "2nd Year",
+      "Email": "priya.srm@example.com",
+      "Phone_Number": "+91 9753124890",
+      "Address": "SRM University, Amaravati, Andhra Pradesh, India",
+      "CGPA": "8.5",
+      "id": "9bbc"
+    },
+    {
+      "Name": "Vikram Rao",
+      "Roll_Number": "AP22110011105",
+      "Department": "Aerospace Engineering",
+      "Year_of_Study": "4th Year",
+      "Email": "vikram.srm@example.com",
+      "Phone_Number": "+91 8123456789",
+      "Address": "SRM University, Amaravati, Andhra Pradesh, India",
+      "CGPA": "9.3",
+      "id": "e564"
+    },
+    {
+      "Name": "Ananya Bose",
+      "Roll_Number": "AP22110011106",
+      "Department": "Biotechnology",
+      "Year_of_Study": "1st Year",
+      "Email": "ananya.srm@example.com",
+      "Phone_Number": "+91 7891236547",
+      "Address": "SRM University, Amaravati, Andhra Pradesh, India",
+      "CGPA": "8.7",
+      "id": "23a0"
+    },
+    {
+      "Name": "Kiran Gupta",
+      "Roll_Number": "AP22110011107",
+      "Department": "Computer Science and Engineering",
+      "Year_of_Study": "3rd Year",
+      "Email": "kiran.srm@example.com",
+      "Phone_Number": "+91 9123456780",
+      "Address": "SRM University, Amaravati, Andhra Pradesh, India",
+      "CGPA": "9.1",
+      "id": "5bd7"
+    },
+    {
+      "Name": "Rhea Menon",
+      "Roll_Number": "AP22110011108",
+      "Department": "Chemical Engineering",
+      "Year_of_Study": "2nd Year",
+      "Email": "rhea.srm@example.com",
+      "Phone_Number": "+91 9876543120",
+      "Address": "SRM University, Amaravati, Andhra Pradesh, India",
+      "CGPA": "8.4",
+      "id": "c976"
+    }
+  ],
+  "Users": [
+    {
+      "Admission_number": "AP22110011101",
+      "Name": "John Doe",
+      "Timetable": [
+        {
+          "day": "Monday",
+          "periods": [
+            "Math (A101)",
+            "Physics (B201)",
+            "Chemistry (C301)",
+            "Biology (D401)",
+            "English (E501)",
+            "Physics (C302)",
+            "Economics (E601)"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "periods": [
+            "Computer Science (A102)",
+            "History (B202)",
+            "Physics (C302)",
+            "Math (D402)",
+            "PE (E502)",
+            "Math (S402)",
+            "Chemistry (B203)",
+            "Computer Science (E503)"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "periods": [
+            "English (A103)",
+            "Chemistry (B203)",
+            "Math (C303)",
+            "History (D403)",
+            "Computer Science (E503)",
+            "Physics (C304)",
+            "History (D404)",
+            "Economics (E601)"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "periods": [
+            "Biology (A104)",
+            "PE (B204)",
+            "Math (C304)",
+            "Physics (C302)",
+            "English (D404)",
+            "Physics (E504)",
+            "Math (D405)"
+          ]
+        },
+        {
+          "day": "Friday",
+          "periods": [
+            "Physics (A105)",
+            "Math (B205)",
+            "English (C305)",
+            "Biology (D405)",
+            "History (E505)",
+            "Economics (E601)"
+          ]
+        }
+      ],
+      "id": "7886"
+    },
+    {
+      "Admission_number": "AP22110011102",
+      "Name": "Jane Smith",
+      "Timetable": [
+        {
+          "day": "Monday",
+          "periods": [
+            "Economics (A201)",
+            "Math (B301)",
+            "History (C401)",
+            "English (D501)",
+            "PE (E601)",
+            "Math (B402)"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "periods": [
+            "Physics (A202)",
+            "Computer Science (B302)",
+            "Biology (C402)",
+            "Chemistry (D502)",
+            "History (E602)",
+            "Math (C501)",
+            "Biology (D602)"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "periods": [
+            "Math (A203)",
+            "Economics (B303)",
+            "History (C403)",
+            "English (D503)",
+            "Physics (E603)",
+            "Biology (C504)",
+            "History (E605)"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "periods": [
+            "PE (A204)",
+            "Math (B304)",
+            "Biology (C404)",
+            "History (D504)",
+            "Chemistry (E604)",
+            "English (D605)",
+            "Physics (E601)"
+          ]
+        },
+        {
+          "day": "Friday",
+          "periods": [
+            "Computer Science (A205)",
+            "Physics (B305)",
+            "Math (C405)",
+            "English (D505)",
+            "Biology (E605)",
+            "Math (E606)"
+          ]
+        }
+      ],
+      "id": "fcf8"
+    },
+    {
+      "Admission_number": "AP22110011103",
+      "Name": "Samatham Jayanth Kumar",
+      "Timetable": [
+        {
+          "day": "Monday",
+          "periods": [
+            "CSE 304 (C 609)",
+            "CSE 304 (C 609)",
+            "CSE 305 (C 609)",
+            "CSE 305 (C 609)",
+            "SEC 125 (C 609)",
+            "Physics (C601)"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "periods": [
+            "CSE 302 (S 412)",
+            "CSE 302 (S 412)",
+            "CSE 304 (C 211)",
+            "CSE 305 (C 609)",
+            "SEC 125 (C 609)",
+            "Biology (C 504)",
+            "History (D402)"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "periods": [
+            "CSE 301 (C 609)",
+            "CSE 301 (C 609)",
+            "CSE 305 (S 610)",
+            "CSE 305 (S 610)",
+            "SEC 125 (C 609)",
+            "Math (D504)",
+            "History (C302)"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "periods": [
+            "CSE 301 (S 610)",
+            "CSE 301 (S 610)",
+            "CSE 302 (S 412)",
+            "CSE 302 (S 412)",
+            "CSE 301 (C 609)",
+            "Math (E601)",
+            "Physics (D505)"
+          ]
+        },
+        {
+          "day": "Friday",
+          "periods": [
+            "CSE 302 (C 609)",
+            "CSE 302 (C 609)",
+            "CSE 305 (C 609)",
+            "CSE 305 (C 609)",
+            "CSE 301 (C 609)",
+            "History (E604)"
+          ]
+        }
+      ],
+      "id": "3dc4"
+    },
+    {
+      "Admission_number": "AP22110011104",
+      "Name": "Alice Johnson",
+      "Timetable": [
+        {
+          "day": "Monday",
+          "periods": [
+            "Math (A101)",
+            "Physics (B201)",
+            "Computer Science (C301)",
+            "Biology (D401)",
+            "Chemistry (E501)",
+            "Economics (F601)"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "periods": [
+            "English (A102)",
+            "History (B202)",
+            "Physics (C302)",
+            "Math (D402)",
+            "PE (E502)",
+            "Biology (F602)"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "periods": [
+            "Computer Science (A103)",
+            "Physics (B203)",
+            "Math (C303)",
+            "History (D403)",
+            "Chemistry (E503)",
+            "Economics (F603)"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "periods": [
+            "PE (A104)",
+            "Math (B204)",
+            "English (C304)",
+            "History (D404)",
+            "Physics (E504)",
+            "Chemistry (F604)"
+          ]
+        },
+        {
+          "day": "Friday",
+          "periods": [
+            "Math (A105)",
+            "Biology (B205)",
+            "Physics (C305)",
+            "English (D405)",
+            "Economics (E505)",
+            "History (F605)"
+          ]
+        }
+      ],
+      "id": "0833"
+    },
+    {
+      "Admission_number": "AP22110011105",
+      "Name": "Robert Brown",
+      "Timetable": [
+        {
+          "day": "Monday",
+          "periods": [
+            "History (A201)",
+            "Math (B301)",
+            "English (C401)",
+            "Physics (D501)",
+            "PE (E601)",
+            "Computer Science (F701)"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "periods": [
+            "Math (A202)",
+            "Biology (B302)",
+            "Physics (C402)",
+            "Chemistry (D502)",
+            "History (E602)",
+            "Economics (F702)"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "periods": [
+            "Computer Science (A203)",
+            "English (B303)",
+            "Math (C403)",
+            "PE (D503)",
+            "Chemistry (E603)",
+            "History (F703)"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "periods": [
+            "Physics (A204)",
+            "History (B304)",
+            "Math (C404)",
+            "Biology (D504)",
+            "PE (E604)",
+            "Economics (F704)"
+          ]
+        },
+        {
+          "day": "Friday",
+          "periods": [
+            "Math (A205)",
+            "Chemistry (B305)",
+            "Physics (C405)",
+            "History (D505)",
+            "Economics (E605)",
+            "Computer Science (F705)"
+          ]
+        }
+      ],
+      "id": "8467"
+    },
+    {
+      "Admission_number": "AP22110011106",
+      "Name": "Emily Davis",
+      "Timetable": [
+        {
+          "day": "Monday",
+          "periods": [
+            "Economics (A101)",
+            "PE (B201)",
+            "Math (C301)",
+            "History (D401)",
+            "Chemistry (E501)",
+            "Biology (F601)"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "periods": [
+            "Math (A102)",
+            "Computer Science (B202)",
+            "English (C302)",
+            "Physics (D402)",
+            "History (E502)",
+            "Chemistry (F602)"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "periods": [
+            "Physics (A103)",
+            "History (B203)",
+            "Economics (C303)",
+            "Math (D403)",
+            "PE (E503)",
+            "Biology (F603)"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "periods": [
+            "History (A104)",
+            "Math (B204)",
+            "Chemistry (C304)",
+            "Physics (D404)",
+            "English (E504)",
+            "Economics (F604)"
+          ]
+        },
+        {
+          "day": "Friday",
+          "periods": [
+            "Math (A105)",
+            "Computer Science (B205)",
+            "Physics (C305)",
+            "Biology (D405)",
+            "History (E505)",
+            "PE (F605)"
+          ]
+        }
+      ],
+      "id": "ed98"
+    },
+    {
+      "Admission_number": "AP22110011107",
+      "Name": "Michael Johnson",
+      "Timetable": [
+        {
+          "day": "Monday",
+          "periods": [
+            "Biology (A101)",
+            "Physics (B201)",
+            "Math (C301)",
+            "Economics (D401)",
+            "History (E501)",
+            "English (F601)"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "periods": [
+            "Physics (A102)",
+            "Math (B202)",
+            "Computer Science (C302)",
+            "Biology (D402)",
+            "Chemistry (E502)",
+            "PE (F602)"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "periods": [
+            "History (A103)",
+            "Physics (B203)",
+            "Economics (C303)",
+            "Math (D403)",
+            "English (E503)",
+            "PE (F603)"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "periods": [
+            "Math (A104)",
+            "Chemistry (B204)",
+            "History (C304)",
+            "Physics (D404)",
+            "PE (E504)",
+            "Biology (F604)"
+          ]
+        },
+        {
+          "day": "Friday",
+          "periods": [
+            "Physics (A105)",
+            "Math (B205)",
+            "Economics (C305)",
+            "History (D405)",
+            "Biology (E505)",
+            "English (F605)"
+          ]
+        }
+      ],
+      "id": "ddb4"
+    },
+    {
+      "Admission_number": "AP22110011108",
+      "Name": "Sophia Wilson",
+      "Timetable": [
+        {
+          "day": "Monday",
+          "periods": [
+            "History (A101)",
+            "English (B201)",
+            "PE (C301)",
+            "Math (D401)",
+            "Physics (E501)",
+            "Biology (F601)"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "periods": [
+            "Economics (A102)",
+            "Physics (B202)",
+            "Math (C302)",
+            "English (D402)",
+            "History (E502)",
+            "Computer Science (F602)"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "periods": [
+            "PE (A103)",
+            "History (B203)",
+            "English (C303)",
+            "Math (D403)",
+            "Physics (E503)",
+            "Economics (F603)"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "periods": [
+            "Physics (A104)",
+            "Economics (B204)",
+            "History (C304)",
+            "Biology (D404)",
+            "PE (E504)",
+            "English (F604)"
+          ]
+        },
+        {
+          "day": "Friday",
+          "periods": [
+            "English (A105)",
+            "History (B205)",
+            "Math (C305)",
+            "Biology (D405)",
+            "Physics (E505)",
+            "Computer Science (F605)"
+          ]
+        }
+      ],
+      "id": "1f9f"
+    },
+    {
+      "Admission_number": "AP22110011109",
+      "Name": "Liam Martinez",
+      "Timetable": [
+        {
+          "day": "Monday",
+          "periods": [
+            "English (A101)",
+            "Math (B201)",
+            "PE (C301)",
+            "History (D401)",
+            "Economics (E501)",
+            "Physics (F601)"
+          ]
+        },
+        {
+          "day": "Tuesday",
+          "periods": [
+            "Math (A102)",
+            "Physics (B202)",
+            "History (C302)",
+            "PE (D402)",
+            "English (E502)",
+            "Economics (F602)"
+          ]
+        },
+        {
+          "day": "Wednesday",
+          "periods": [
+            "Physics (A103)",
+            "Economics (B203)",
+            "PE (C303)",
+            "History (D403)",
+            "Math (E503)",
+            "English (F603)"
+          ]
+        },
+        {
+          "day": "Thursday",
+          "periods": [
+            "Math (A104)",
+            "Physics (B204)",
+            "Economics (C304)",
+            "History (D404)",
+            "PE (E504)",
+            "Physics (F604)"
+          ]
+        },
+        {
+          "day": "Friday",
+          "periods": [
+            "Economics (A105)",
+            "History (B205)",
+            "Math (C305)",
+            "English (D405)",
+            "Physics (E505)",
+            "PE (F605)"
+          ]
+        }
+      ],
+      "id": "c563"
+    }
+  ],
+  "Results": [
+    {
+      "Admission_Number": "AP22110011101",
+      "Semester": 4,
+      "Subjects": [
+        {
+          "Code": "CSE 206",
+          "Description": "CODING SKILLS - II",
+          "Credits": 2,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 207",
+          "Description": "DESIGN AND ANALYSIS OF ALGORITHMS",
+          "Credits": 4,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 208",
+          "Description": "PROBABILITY AND STATISTICS",
+          "Credits": 3,
+          "Grade": "O",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 209",
+          "Description": "DATABASE MANAGEMENT SYSTEMS",
+          "Credits": 4,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 210",
+          "Description": "WEB TECHNOLOGY",
+          "Credits": 4,
+          "Grade": "O",
+          "Result": "PASS"
+        },
+        {
+          "Code": "MOOC 145",
+          "Description": "EDUCATION FOR SUSTAINABLE DEVELOPMENT",
+          "Credits": 3,
+          "Grade": "B+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "VAC 103R",
+          "Description": "CO-CURRICULAR - ANIME SOCIETY",
+          "Credits": 3,
+          "Grade": "PASS",
+          "Result": "PASS"
+        },
+        {
+          "Code": "VAC 106",
+          "Description": "COMMUNITY SERVICE AND SOCIAL RESPONSIBILITY",
+          "Credits": 3,
+          "Grade": "PASS",
+          "Result": "PASS"
+        }
+      ],
+      "SGPA": 9.2,
+      "id": "38cf"
+    },
+    {
+      "Admission_Number": "AP22110011102",
+      "Semester": 4,
+      "Subjects": [
+        {
+          "Code": "CSE 206",
+          "Description": "CODING SKILLS - II",
+          "Credits": 2,
+          "Grade": "O",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 207",
+          "Description": "DESIGN AND ANALYSIS OF ALGORITHMS",
+          "Credits": 4,
+          "Grade": "A",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 208",
+          "Description": "PROBABILITY AND STATISTICS",
+          "Credits": 3,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 209",
+          "Description": "DATABASE MANAGEMENT SYSTEMS",
+          "Credits": 4,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 210",
+          "Description": "WEB TECHNOLOGY",
+          "Credits": 4,
+          "Grade": "A",
+          "Result": "PASS"
+        },
+        {
+          "Code": "MOOC 145",
+          "Description": "EDUCATION FOR SUSTAINABLE DEVELOPMENT",
+          "Credits": 3,
+          "Grade": "B",
+          "Result": "PASS"
+        },
+        {
+          "Code": "VAC 103R",
+          "Description": "CO-CURRICULAR - ANIME SOCIETY",
+          "Credits": 3,
+          "Grade": "PASS",
+          "Result": "PASS"
+        },
+        {
+          "Code": "VAC 106",
+          "Description": "COMMUNITY SERVICE AND SOCIAL RESPONSIBILITY",
+          "Credits": 3,
+          "Grade": "PASS",
+          "Result": "PASS"
+        }
+      ],
+      "SGPA": 8.8,
+      "id": "2a6a"
+    },
+    {
+      "Admission_Number": "AP22110011103",
+      "Semester": 4,
+      "Subjects": [
+        {
+          "Code": "CSE 206",
+          "Description": "CODING SKILLS - II",
+          "Credits": 2,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 207",
+          "Description": "DESIGN AND ANALYSIS OF ALGORITHMS",
+          "Credits": 4,
+          "Grade": "O",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 208",
+          "Description": "PROBABILITY AND STATISTICS",
+          "Credits": 3,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 209",
+          "Description": "DATABASE MANAGEMENT SYSTEMS",
+          "Credits": 4,
+          "Grade": "O",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 210",
+          "Description": "WEB TECHNOLOGY",
+          "Credits": 4,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "MOOC 145",
+          "Description": "EDUCATION FOR SUSTAINABLE DEVELOPMENT",
+          "Credits": 3,
+          "Grade": "A",
+          "Result": "PASS"
+        },
+        {
+          "Code": "VAC 103R",
+          "Description": "CO-CURRICULAR - ANIME SOCIETY",
+          "Credits": 3,
+          "Grade": "PASS",
+          "Result": "PASS"
+        },
+        {
+          "Code": "VAC 106",
+          "Description": "COMMUNITY SERVICE AND SOCIAL RESPONSIBILITY",
+          "Credits": 3,
+          "Grade": "PASS",
+          "Result": "PASS"
+        }
+      ],
+      "SGPA": 9,
+      "id": "f77f"
+    },
+    {
+      "Admission_Number": "AP22110011104",
+      "Semester": 4,
+      "Subjects": [
+        {
+          "Code": "CSE 206",
+          "Description": "CODING SKILLS - II",
+          "Credits": 2,
+          "Grade": "A",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 207",
+          "Description": "DESIGN AND ANALYSIS OF ALGORITHMS",
+          "Credits": 4,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 208",
+          "Description": "PROBABILITY AND STATISTICS",
+          "Credits": 3,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 209",
+          "Description": "DATABASE MANAGEMENT SYSTEMS",
+          "Credits": 4,
+          "Grade": "A",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 210",
+          "Description": "WEB TECHNOLOGY",
+          "Credits": 4,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "MOOC 145",
+          "Description": "EDUCATION FOR SUSTAINABLE DEVELOPMENT",
+          "Credits": 3,
+          "Grade": "B+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "VAC 103R",
+          "Description": "CO-CURRICULAR - ANIME SOCIETY",
+          "Credits": 3,
+          "Grade": "PASS",
+          "Result": "PASS"
+        },
+        {
+          "Code": "VAC 106",
+          "Description": "COMMUNITY SERVICE AND SOCIAL RESPONSIBILITY",
+          "Credits": 3,
+          "Grade": "PASS",
+          "Result": "PASS"
+        }
+      ],
+      "SGPA": 8.7,
+      "id": "5f57"
+    },
+    {
+      "Admission_Number": "AP22110011105",
+      "Semester": 4,
+      "Subjects": [
+        {
+          "Code": "CSE 206",
+          "Description": "CODING SKILLS - II",
+          "Credits": 2,
+          "Grade": "O",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 207",
+          "Description": "DESIGN AND ANALYSIS OF ALGORITHMS",
+          "Credits": 4,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 208",
+          "Description": "PROBABILITY AND STATISTICS",
+          "Credits": 3,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 209",
+          "Description": "DATABASE MANAGEMENT SYSTEMS",
+          "Credits": 4,
+          "Grade": "O",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 210",
+          "Description": "WEB TECHNOLOGY",
+          "Credits": 4,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "MOOC 145",
+          "Description": "EDUCATION FOR SUSTAINABLE DEVELOPMENT",
+          "Credits": 3,
+          "Grade": "A",
+          "Result": "PASS"
+        },
+        {
+          "Code": "VAC 103R",
+          "Description": "CO-CURRICULAR - ANIME SOCIETY",
+          "Credits": 3,
+          "Grade": "PASS",
+          "Result": "PASS"
+        },
+        {
+          "Code": "VAC 106",
+          "Description": "COMMUNITY SERVICE AND SOCIAL RESPONSIBILITY",
+          "Credits": 3,
+          "Grade": "PASS",
+          "Result": "PASS"
+        }
+      ],
+      "SGPA": 9.3,
+      "id": "ea0e"
+    },
+    {
+      "Admission_Number": "AP22110011106",
+      "Semester": 4,
+      "Subjects": [
+        {
+          "Code": "CSE 206",
+          "Description": "CODING SKILLS - II",
+          "Credits": 2,
+          "Grade": "A",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 207",
+          "Description": "DESIGN AND ANALYSIS OF ALGORITHMS",
+          "Credits": 4,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 208",
+          "Description": "PROBABILITY AND STATISTICS",
+          "Credits": 3,
+          "Grade": "O",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 209",
+          "Description": "DATABASE MANAGEMENT SYSTEMS",
+          "Credits": 4,
+          "Grade": "O",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 210",
+          "Description": "WEB TECHNOLOGY",
+          "Credits": 4,
+          "Grade": "A",
+          "Result": "PASS"
+        },
+        {
+          "Code": "MOOC 145",
+          "Description": "EDUCATION FOR SUSTAINABLE DEVELOPMENT",
+          "Credits": 3,
+          "Grade": "B+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "VAC 103R",
+          "Description": "CO-CURRICULAR - ANIME SOCIETY",
+          "Credits": 3,
+          "Grade": "PASS",
+          "Result": "PASS"
+        },
+        {
+          "Code": "VAC 106",
+          "Description": "COMMUNITY SERVICE AND SOCIAL RESPONSIBILITY",
+          "Credits": 3,
+          "Grade": "PASS",
+          "Result": "PASS"
+        }
+      ],
+      "SGPA": 9.1,
+      "id": "98d6"
+    },
+    {
+      "Admission_Number": "AP22110011107",
+      "Semester": 4,
+      "Subjects": [
+        {
+          "Code": "CSE 206",
+          "Description": "CODING SKILLS - II",
+          "Credits": 2,
+          "Grade": "B",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 207",
+          "Description": "DESIGN AND ANALYSIS OF ALGORITHMS",
+          "Credits": 4,
+          "Grade": "A",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 208",
+          "Description": "PROBABILITY AND STATISTICS",
+          "Credits": 3,
+          "Grade": "A",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 209",
+          "Description": "DATABASE MANAGEMENT SYSTEMS",
+          "Credits": 4,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 210",
+          "Description": "WEB TECHNOLOGY",
+          "Credits": 4,
+          "Grade": "O",
+          "Result": "PASS"
+        },
+        {
+          "Code": "MOOC 145",
+          "Description": "EDUCATION FOR SUSTAINABLE DEVELOPMENT",
+          "Credits": 3,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "VAC 103R",
+          "Description": "CO-CURRICULAR - ANIME SOCIETY",
+          "Credits": 3,
+          "Grade": "B+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "VAC 106",
+          "Description": "COMMUNITY SERVICE AND SOCIAL RESPONSIBILITY",
+          "Credits": 3,
+          "Grade": "A",
+          "Result": "PASS"
+        }
+      ],
+      "SGPA": 8.6,
+      "id": "a3fd"
+    },
+    {
+      "Admission_Number": "AP22110011108",
+      "Semester": 4,
+      "Subjects": [
+        {
+          "Code": "CSE 206",
+          "Description": "CODING SKILLS - II",
+          "Credits": 2,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 207",
+          "Description": "DESIGN AND ANALYSIS OF ALGORITHMS",
+          "Credits": 4,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 208",
+          "Description": "PROBABILITY AND STATISTICS",
+          "Credits": 3,
+          "Grade": "O",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 209",
+          "Description": "DATABASE MANAGEMENT SYSTEMS",
+          "Credits": 4,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 210",
+          "Description": "WEB TECHNOLOGY",
+          "Credits": 4,
+          "Grade": "A",
+          "Result": "PASS"
+        },
+        {
+          "Code": "MOOC 145",
+          "Description": "EDUCATION FOR SUSTAINABLE DEVELOPMENT",
+          "Credits": 3,
+          "Grade": "B",
+          "Result": "PASS"
+        },
+        {
+          "Code": "VAC 103R",
+          "Description": "CO-CURRICULAR - ANIME SOCIETY",
+          "Credits": 3,
+          "Grade": "B+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "VAC 106",
+          "Description": "COMMUNITY SERVICE AND SOCIAL RESPONSIBILITY",
+          "Credits": 3,
+          "Grade": "A+",
+          "Result": "PASS"
+        }
+      ],
+      "SGPA": 9,
+      "id": "afcd"
+    },
+    {
+      "Admission_Number": "AP22110011109",
+      "Semester": 4,
+      "Subjects": [
+        {
+          "Code": "CSE 206",
+          "Description": "CODING SKILLS - II",
+          "Credits": 2,
+          "Grade": "O",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 207",
+          "Description": "DESIGN AND ANALYSIS OF ALGORITHMS",
+          "Credits": 4,
+          "Grade": "O",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 208",
+          "Description": "PROBABILITY AND STATISTICS",
+          "Credits": 3,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 209",
+          "Description": "DATABASE MANAGEMENT SYSTEMS",
+          "Credits": 4,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 210",
+          "Description": "WEB TECHNOLOGY",
+          "Credits": 4,
+          "Grade": "O",
+          "Result": "PASS"
+        },
+        {
+          "Code": "MOOC 145",
+          "Description": "EDUCATION FOR SUSTAINABLE DEVELOPMENT",
+          "Credits": 3,
+          "Grade": "A",
+          "Result": "PASS"
+        },
+        {
+          "Code": "VAC 103R",
+          "Description": "CO-CURRICULAR - ANIME SOCIETY",
+          "Credits": 3,
+          "Grade": "B+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "VAC 106",
+          "Description": "COMMUNITY SERVICE AND SOCIAL RESPONSIBILITY",
+          "Credits": 3,
+          "Grade": "A+",
+          "Result": "PASS"
+        }
+      ],
+      "SGPA": 9.5,
+      "id": "0ae0"
+    },
+    {
+      "Admission_Number": "AP22110011110",
+      "Semester": 4,
+      "Subjects": [
+        {
+          "Code": "CSE 206",
+          "Description": "CODING SKILLS - II",
+          "Credits": 2,
+          "Grade": "A",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 207",
+          "Description": "DESIGN AND ANALYSIS OF ALGORITHMS",
+          "Credits": 4,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 208",
+          "Description": "PROBABILITY AND STATISTICS",
+          "Credits": 3,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 209",
+          "Description": "DATABASE MANAGEMENT SYSTEMS",
+          "Credits": 4,
+          "Grade": "A",
+          "Result": "PASS"
+        },
+        {
+          "Code": "CSE 210",
+          "Description": "WEB TECHNOLOGY",
+          "Credits": 4,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "MOOC 145",
+          "Description": "EDUCATION FOR SUSTAINABLE DEVELOPMENT",
+          "Credits": 3,
+          "Grade": "B+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "VAC 103R",
+          "Description": "CO-CURRICULAR - ANIME SOCIETY",
+          "Credits": 3,
+          "Grade": "A+",
+          "Result": "PASS"
+        },
+        {
+          "Code": "VAC 106",
+          "Description": "COMMUNITY SERVICE AND SOCIAL RESPONSIBILITY",
+          "Credits": 3,
+          "Grade": "O",
+          "Result": "PASS"
+        }
+      ],
+      "SGPA": 8.9,
+      "id": "dda6"
+    }
+  ],
+  "Attendence": [
+    {
+      "Admission_number": "AP22110011101",
+      "attendence_details": [
+        {
+          "subject_code": "CSE 301",
+          "subject_description": "COMPUTER NETWORKS",
+          "classes_conducted": 66,
+          "attendance_entered": "Present: 58, Absent: 8",
+          "present_percentage": 87.88,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 87.88
+        },
+        {
+          "subject_code": "CSE 302",
+          "subject_description": "OPERATING SYSTEMS",
+          "classes_conducted": 65,
+          "attendance_entered": "Present: 55, Absent: 10",
+          "present_percentage": 84.62,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 84.62
+        },
+        {
+          "subject_code": "CSE 303",
+          "subject_description": "MACHINE LEARNING",
+          "classes_conducted": 62,
+          "attendance_entered": "Present: 54, Absent: 8",
+          "present_percentage": 87.1,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 87.1
+        },
+        {
+          "subject_code": "CSE 304",
+          "subject_description": "AUTOMATA AND COMPILERS DESIGN",
+          "classes_conducted": 37,
+          "attendance_entered": "Present: 32, Absent: 5",
+          "present_percentage": 86.49,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 86.49
+        },
+        {
+          "subject_code": "CSE 305",
+          "subject_description": "COMPUTER ORGANIZATION AND ARCHITECTURE",
+          "classes_conducted": 67,
+          "attendance_entered": "Present: 66, Absent: 1",
+          "present_percentage": 98.51,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 98.51
+        },
+        {
+          "subject_code": "EGL 261",
+          "subject_description": "INTRODUCTION TO GENDER",
+          "classes_conducted": 19,
+          "attendance_entered": "Present: 18, Absent: 1",
+          "present_percentage": 94.74,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 94.74
+        },
+        {
+          "subject_code": "SEC 125",
+          "subject_description": "FULL STACK DEVELOPMENT USING MERN STACK",
+          "classes_conducted": 24,
+          "attendance_entered": "Present: 21, Absent: 3",
+          "present_percentage": 87.5,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 87.5
+        }
+      ],
+      "id": "b6e5"
+    },
+    {
+      "Admission_number": "AP22110011109",
+      "attendence_details": [
+        {
+          "subject_code": "CSE 301",
+          "subject_description": "COMPUTER NETWORKS",
+          "classes_conducted": 66,
+          "attendance_entered": "Present: 58, Absent: 8",
+          "present_percentage": 87.88,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 87.88
+        },
+        {
+          "subject_code": "CSE 302",
+          "subject_description": "OPERATING SYSTEMS",
+          "classes_conducted": 65,
+          "attendance_entered": "Present: 55, Absent: 10",
+          "present_percentage": 84.62,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 84.62
+        },
+        {
+          "subject_code": "CSE 303",
+          "subject_description": "MACHINE LEARNING",
+          "classes_conducted": 62,
+          "attendance_entered": "Present: 54, Absent: 8",
+          "present_percentage": 87.1,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 87.1
+        },
+        {
+          "subject_code": "CSE 304",
+          "subject_description": "AUTOMATA AND COMPILERS DESIGN",
+          "classes_conducted": 37,
+          "attendance_entered": "Present: 32, Absent: 5",
+          "present_percentage": 86.49,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 86.49
+        },
+        {
+          "subject_code": "CSE 305",
+          "subject_description": "COMPUTER ORGANIZATION AND ARCHITECTURE",
+          "classes_conducted": 67,
+          "attendance_entered": "Present: 66, Absent: 1",
+          "present_percentage": 98.51,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 98.51
+        },
+        {
+          "subject_code": "EGL 261",
+          "subject_description": "INTRODUCTION TO GENDER",
+          "classes_conducted": 19,
+          "attendance_entered": "Present: 18, Absent: 1",
+          "present_percentage": 94.74,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 94.74
+        },
+        {
+          "subject_code": "SEC 125",
+          "subject_description": "FULL STACK DEVELOPMENT USING MERN STACK",
+          "classes_conducted": 24,
+          "attendance_entered": "Present: 21, Absent: 3",
+          "present_percentage": 87.5,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 87.5
+        }
+      ],
+      "id": "ce80"
+    },
+    {
+      "Admission_number": "AP22110011102",
+      "attendence_details": [
+        {
+          "subject_code": "CSE 301",
+          "subject_description": "COMPUTER NETWORKS",
+          "classes_conducted": 70,
+          "attendance_entered": "Present: 60, Absent: 10",
+          "present_percentage": 85.71,
+          "od_ml_taken": 2,
+          "od_ml_approved_percentage": 2.86,
+          "attendance_percentage": 88.57
+        },
+        {
+          "subject_code": "CSE 302",
+          "subject_description": "OPERATING SYSTEMS",
+          "classes_conducted": 65,
+          "attendance_entered": "Present: 50, Absent: 15",
+          "present_percentage": 76.92,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 76.92
+        },
+        {
+          "subject_code": "CSE 303",
+          "subject_description": "MACHINE LEARNING",
+          "classes_conducted": 62,
+          "attendance_entered": "Present: 48, Absent: 14",
+          "present_percentage": 77.42,
+          "od_ml_taken": 3,
+          "od_ml_approved_percentage": 4.84,
+          "attendance_percentage": 82.26
+        },
+        {
+          "subject_code": "CSE 304",
+          "subject_description": "AUTOMATA AND COMPILERS DESIGN",
+          "classes_conducted": 37,
+          "attendance_entered": "Present: 28, Absent: 9",
+          "present_percentage": 75.68,
+          "od_ml_taken": 1,
+          "od_ml_approved_percentage": 2.7,
+          "attendance_percentage": 78.38
+        },
+        {
+          "subject_code": "CSE 305",
+          "subject_description": "COMPUTER ORGANIZATION AND ARCHITECTURE",
+          "classes_conducted": 67,
+          "attendance_entered": "Present: 64, Absent: 3",
+          "present_percentage": 95.52,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 95.52
+        },
+        {
+          "subject_code": "EGL 261",
+          "subject_description": "INTRODUCTION TO GENDER",
+          "classes_conducted": 19,
+          "attendance_entered": "Present: 17, Absent: 2",
+          "present_percentage": 89.47,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 89.47
+        },
+        {
+          "subject_code": "SEC 125",
+          "subject_description": "FULL STACK DEVELOPMENT USING MERN STACK",
+          "classes_conducted": 24,
+          "attendance_entered": "Present: 19, Absent: 5",
+          "present_percentage": 79.17,
+          "od_ml_taken": 1,
+          "od_ml_approved_percentage": 4.17,
+          "attendance_percentage": 83.33
+        }
+      ],
+      "id": "0fda"
+    },
+    {
+      "Admission_number": "AP22110011103",
+      "attendence_details": [
+        {
+          "subject_code": "CSE 301",
+          "subject_description": "COMPUTER NETWORKS",
+          "classes_conducted": 66,
+          "attendance_entered": "Present: 61, Absent: 5",
+          "present_percentage": 92.42,
+          "od_ml_taken": 1,
+          "od_ml_approved_percentage": 1.52,
+          "attendance_percentage": 93.94
+        },
+        {
+          "subject_code": "CSE 302",
+          "subject_description": "OPERATING SYSTEMS",
+          "classes_conducted": 65,
+          "attendance_entered": "Present: 60, Absent: 5",
+          "present_percentage": 92.31,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 92.31
+        },
+        {
+          "subject_code": "CSE 303",
+          "subject_description": "MACHINE LEARNING",
+          "classes_conducted": 62,
+          "attendance_entered": "Present: 56, Absent: 6",
+          "present_percentage": 90.32,
+          "od_ml_taken": 1,
+          "od_ml_approved_percentage": 1.61,
+          "attendance_percentage": 91.93
+        },
+        {
+          "subject_code": "CSE 304",
+          "subject_description": "AUTOMATA AND COMPILERS DESIGN",
+          "classes_conducted": 37,
+          "attendance_entered": "Present: 34, Absent: 3",
+          "present_percentage": 91.89,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 91.89
+        },
+        {
+          "subject_code": "CSE 305",
+          "subject_description": "COMPUTER ORGANIZATION AND ARCHITECTURE",
+          "classes_conducted": 67,
+          "attendance_entered": "Present: 65, Absent: 2",
+          "present_percentage": 97.01,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 97.01
+        },
+        {
+          "subject_code": "EGL 261",
+          "subject_description": "INTRODUCTION TO GENDER",
+          "classes_conducted": 19,
+          "attendance_entered": "Present: 18, Absent: 1",
+          "present_percentage": 94.74,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 94.74
+        },
+        {
+          "subject_code": "SEC 125",
+          "subject_description": "FULL STACK DEVELOPMENT USING MERN STACK",
+          "classes_conducted": 24,
+          "attendance_entered": "Present: 23, Absent: 1",
+          "present_percentage": 95.83,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 95.83
+        }
+      ],
+      "id": "c113"
+    },
+    {
+      "Admission_number": "AP22110011104",
+      "attendence_details": [
+        {
+          "subject_code": "CSE 301",
+          "subject_description": "COMPUTER NETWORKS",
+          "classes_conducted": 70,
+          "attendance_entered": "Present: 63, Absent: 7",
+          "present_percentage": 90,
+          "od_ml_taken": 1,
+          "od_ml_approved_percentage": 1.43,
+          "attendance_percentage": 91.43
+        },
+        {
+          "subject_code": "CSE 302",
+          "subject_description": "OPERATING SYSTEMS",
+          "classes_conducted": 68,
+          "attendance_entered": "Present: 61, Absent: 7",
+          "present_percentage": 89.71,
+          "od_ml_taken": 2,
+          "od_ml_approved_percentage": 2.94,
+          "attendance_percentage": 92.65
+        },
+        {
+          "subject_code": "CSE 303",
+          "subject_description": "MACHINE LEARNING",
+          "classes_conducted": 65,
+          "attendance_entered": "Present: 60, Absent: 5",
+          "present_percentage": 92.31,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 92.31
+        },
+        {
+          "subject_code": "CSE 304",
+          "subject_description": "AUTOMATA AND COMPILERS DESIGN",
+          "classes_conducted": 40,
+          "attendance_entered": "Present: 36, Absent: 4",
+          "present_percentage": 90,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 90
+        },
+        {
+          "subject_code": "CSE 305",
+          "subject_description": "COMPUTER ORGANIZATION AND ARCHITECTURE",
+          "classes_conducted": 67,
+          "attendance_entered": "Present: 65, Absent: 2",
+          "present_percentage": 97.01,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 97.01
+        },
+        {
+          "subject_code": "EGL 261",
+          "subject_description": "INTRODUCTION TO GENDER",
+          "classes_conducted": 20,
+          "attendance_entered": "Present: 19, Absent: 1",
+          "present_percentage": 95,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 95
+        },
+        {
+          "subject_code": "SEC 125",
+          "subject_description": "FULL STACK DEVELOPMENT USING MERN STACK",
+          "classes_conducted": 26,
+          "attendance_entered": "Present: 24, Absent: 2",
+          "present_percentage": 92.31,
+          "od_ml_taken": 1,
+          "od_ml_approved_percentage": 3.85,
+          "attendance_percentage": 96.16
+        }
+      ],
+      "id": "b7cf"
+    },
+    {
+      "Admission_number": "AP22110011105",
+      "attendence_details": [
+        {
+          "subject_code": "CSE 301",
+          "subject_description": "COMPUTER NETWORKS",
+          "classes_conducted": 68,
+          "attendance_entered": "Present: 60, Absent: 8",
+          "present_percentage": 88.24,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 88.24
+        },
+        {
+          "subject_code": "CSE 302",
+          "subject_description": "OPERATING SYSTEMS",
+          "classes_conducted": 65,
+          "attendance_entered": "Present: 58, Absent: 7",
+          "present_percentage": 89.23,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 89.23
+        },
+        {
+          "subject_code": "CSE 303",
+          "subject_description": "MACHINE LEARNING",
+          "classes_conducted": 62,
+          "attendance_entered": "Present: 54, Absent: 8",
+          "present_percentage": 87.1,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 87.1
+        },
+        {
+          "subject_code": "CSE 304",
+          "subject_description": "AUTOMATA AND COMPILERS DESIGN",
+          "classes_conducted": 39,
+          "attendance_entered": "Present: 34, Absent: 5",
+          "present_percentage": 87.18,
+          "od_ml_taken": 1,
+          "od_ml_approved_percentage": 2.56,
+          "attendance_percentage": 89.74
+        },
+        {
+          "subject_code": "CSE 305",
+          "subject_description": "COMPUTER ORGANIZATION AND ARCHITECTURE",
+          "classes_conducted": 66,
+          "attendance_entered": "Present: 64, Absent: 2",
+          "present_percentage": 96.97,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 96.97
+        },
+        {
+          "subject_code": "EGL 261",
+          "subject_description": "INTRODUCTION TO GENDER",
+          "classes_conducted": 18,
+          "attendance_entered": "Present: 17, Absent: 1",
+          "present_percentage": 94.44,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 94.44
+        },
+        {
+          "subject_code": "SEC 125",
+          "subject_description": "FULL STACK DEVELOPMENT USING MERN STACK",
+          "classes_conducted": 25,
+          "attendance_entered": "Present: 23, Absent: 2",
+          "present_percentage": 92,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 92
+        }
+      ],
+      "id": "35f1"
+    },
+    {
+      "Admission_number": "AP22110011106",
+      "attendence_details": [
+        {
+          "subject_code": "CSE 301",
+          "subject_description": "COMPUTER NETWORKS",
+          "classes_conducted": 68,
+          "attendance_entered": "Present: 62, Absent: 6",
+          "present_percentage": 91.18,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 91.18
+        },
+        {
+          "subject_code": "CSE 302",
+          "subject_description": "OPERATING SYSTEMS",
+          "classes_conducted": 66,
+          "attendance_entered": "Present: 60, Absent: 6",
+          "present_percentage": 90.91,
+          "od_ml_taken": 1,
+          "od_ml_approved_percentage": 1.52,
+          "attendance_percentage": 92.42
+        },
+        {
+          "subject_code": "CSE 303",
+          "subject_description": "MACHINE LEARNING",
+          "classes_conducted": 63,
+          "attendance_entered": "Present: 58, Absent: 5",
+          "present_percentage": 92.06,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 92.06
+        },
+        {
+          "subject_code": "CSE 304",
+          "subject_description": "AUTOMATA AND COMPILERS DESIGN",
+          "classes_conducted": 38,
+          "attendance_entered": "Present: 33, Absent: 5",
+          "present_percentage": 86.84,
+          "od_ml_taken": 1,
+          "od_ml_approved_percentage": 2.63,
+          "attendance_percentage": 89.47
+        },
+        {
+          "subject_code": "CSE 305",
+          "subject_description": "COMPUTER ORGANIZATION AND ARCHITECTURE",
+          "classes_conducted": 67,
+          "attendance_entered": "Present: 64, Absent: 3",
+          "present_percentage": 95.52,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 95.52
+        },
+        {
+          "subject_code": "EGL 261",
+          "subject_description": "INTRODUCTION TO GENDER",
+          "classes_conducted": 19,
+          "attendance_entered": "Present: 18, Absent: 1",
+          "present_percentage": 94.74,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 94.74
+        },
+        {
+          "subject_code": "SEC 125",
+          "subject_description": "FULL STACK DEVELOPMENT USING MERN STACK",
+          "classes_conducted": 26,
+          "attendance_entered": "Present: 24, Absent: 2",
+          "present_percentage": 92.31,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 92.31
+        }
+      ],
+      "id": "e2a7"
+    },
+    {
+      "Admission_number": "AP22110011107",
+      "attendence_details": [
+        {
+          "subject_code": "CSE 301",
+          "subject_description": "COMPUTER NETWORKS",
+          "classes_conducted": 66,
+          "attendance_entered": "Present: 57, Absent: 9",
+          "present_percentage": 86.36,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 86.36
+        },
+        {
+          "subject_code": "CSE 302",
+          "subject_description": "OPERATING SYSTEMS",
+          "classes_conducted": 64,
+          "attendance_entered": "Present: 58, Absent: 6",
+          "present_percentage": 90.63,
+          "od_ml_taken": 1,
+          "od_ml_approved_percentage": 1.56,
+          "attendance_percentage": 92.19
+        },
+        {
+          "subject_code": "CSE 303",
+          "subject_description": "MACHINE LEARNING",
+          "classes_conducted": 60,
+          "attendance_entered": "Present: 55, Absent: 5",
+          "present_percentage": 91.67,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 91.67
+        },
+        {
+          "subject_code": "CSE 304",
+          "subject_description": "AUTOMATA AND COMPILERS DESIGN",
+          "classes_conducted": 35,
+          "attendance_entered": "Present: 30, Absent: 5",
+          "present_percentage": 85.71,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 85.71
+        },
+        {
+          "subject_code": "CSE 305",
+          "subject_description": "COMPUTER ORGANIZATION AND ARCHITECTURE",
+          "classes_conducted": 64,
+          "attendance_entered": "Present: 61, Absent: 3",
+          "present_percentage": 95.31,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 95.31
+        },
+        {
+          "subject_code": "EGL 261",
+          "subject_description": "INTRODUCTION TO GENDER",
+          "classes_conducted": 20,
+          "attendance_entered": "Present: 19, Absent: 1",
+          "present_percentage": 95,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 95
+        },
+        {
+          "subject_code": "SEC 125",
+          "subject_description": "FULL STACK DEVELOPMENT USING MERN STACK",
+          "classes_conducted": 25,
+          "attendance_entered": "Present: 22, Absent: 3",
+          "present_percentage": 88,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 88
+        }
+      ],
+      "id": "392c"
+    },
+    {
+      "Admission_number": "AP22110011108",
+      "attendence_details": [
+        {
+          "subject_code": "CSE 301",
+          "subject_description": "COMPUTER NETWORKS",
+          "classes_conducted": 65,
+          "attendance_entered": "Present: 56, Absent: 9",
+          "present_percentage": 86.15,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 86.15
+        },
+        {
+          "subject_code": "CSE 302",
+          "subject_description": "OPERATING SYSTEMS",
+          "classes_conducted": 67,
+          "attendance_entered": "Present: 61, Absent: 6",
+          "present_percentage": 91.04,
+          "od_ml_taken": 1,
+          "od_ml_approved_percentage": 1.49,
+          "attendance_percentage": 92.54
+        },
+        {
+          "subject_code": "CSE 303",
+          "subject_description": "MACHINE LEARNING",
+          "classes_conducted": 63,
+          "attendance_entered": "Present: 58, Absent: 5",
+          "present_percentage": 92.06,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 92.06
+        },
+        {
+          "subject_code": "CSE 304",
+          "subject_description": "AUTOMATA AND COMPILERS DESIGN",
+          "classes_conducted": 38,
+          "attendance_entered": "Present: 32, Absent: 6",
+          "present_percentage": 84.21,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 84.21
+        },
+        {
+          "subject_code": "CSE 305",
+          "subject_description": "COMPUTER ORGANIZATION AND ARCHITECTURE",
+          "classes_conducted": 66,
+          "attendance_entered": "Present: 64, Absent: 2",
+          "present_percentage": 96.97,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 96.97
+        },
+        {
+          "subject_code": "EGL 261",
+          "subject_description": "INTRODUCTION TO GENDER",
+          "classes_conducted": 19,
+          "attendance_entered": "Present: 18, Absent: 1",
+          "present_percentage": 94.74,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 94.74
+        },
+        {
+          "subject_code": "SEC 125",
+          "subject_description": "FULL STACK DEVELOPMENT USING MERN STACK",
+          "classes_conducted": 24,
+          "attendance_entered": "Present: 22, Absent: 2",
+          "present_percentage": 91.67,
+          "od_ml_taken": 0,
+          "od_ml_approved_percentage": 0,
+          "attendance_percentage": 91.67
+        }
+      ],
+      "id": "9c99"
+    }
+  ],
+  "requests": []
+}
